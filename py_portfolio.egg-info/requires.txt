@@ -1,0 +1,8 @@
+requests
+matplotlib>=3.5.0
+numpy>=1.22.0
+pandas
+scipy
+fake_useragent
+python_dateutil
+scikit_learn

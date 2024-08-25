@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+py_portfolio.egg-info/PKG-INFO
+py_portfolio.egg-info/SOURCES.txt
+py_portfolio.egg-info/dependency_links.txt
+py_portfolio.egg-info/requires.txt
+py_portfolio.egg-info/top_level.txt
